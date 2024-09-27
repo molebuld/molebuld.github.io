@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://molebuld.github.io/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/app/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/assets/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/css/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/data/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/includes/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/item/sitemap.molebuld.gz
+Sitemap: https://molebuld.github.io/src/sitemap.molebuld.gz
